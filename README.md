@@ -1,7 +1,9 @@
 # Infy Client Baseline
 Based on [Vue Browserify Boilerplate](https://github.com/vuejs-templates/browserify)
 
-npm install
+GIT Clone ME
+
+- npm install
 
 serve with hot reload at localhost:8080
 - npm run dev
